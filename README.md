@@ -8,7 +8,7 @@ A full-stack, high-fidelity 3D Solar System simulation built with the MERN stack
 
 ## Screenshot
 
-![demo](assets/screenshot.png)
+![demo](assets/thumbnail.png)
 
 ---
 

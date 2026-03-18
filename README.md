@@ -1,4 +1,4 @@
-```markdown
+
 # Orbital Engine 🪐
 
 A full-stack, high-fidelity 3D Solar System simulation built with the MERN stack and React Three Fiber. This project demonstrates complex state management, 3D mathematical rendering, and decoupled physical systems.
@@ -103,4 +103,3 @@ The Express server will serve the optimized frontend at `http://localhost:5000`.
 | Scroll Wheel | Zoom In / Out |
 | Double-Click Planet | Lock Camera Focus |
 | Click Empty Space | Reset Camera to Sun |
-```

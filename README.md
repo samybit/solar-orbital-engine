@@ -1,9 +1,14 @@
-
 # Orbital Engine 🪐
 
 A full-stack, high-fidelity 3D Solar System simulation built with the MERN stack and React Three Fiber. This project demonstrates complex state management, 3D mathematical rendering, and decoupled physical systems.
 
 **Developed by:** Samy Barsoum
+
+---
+
+## Screenshot
+
+![demo](assets/screenshot.png)
 
 ---
 
